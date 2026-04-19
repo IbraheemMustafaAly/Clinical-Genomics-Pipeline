@@ -223,7 +223,7 @@ Franklin provides:
 
 **Ibraheem Mustafa**
 
-Bioinformatician & Field Application Specialist
+Bioinformatician & Field Application Specialist — Life Tech Co.
 
 MSc Bioinformatics — University of Sadat City
 
