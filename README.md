@@ -225,6 +225,7 @@ Franklin provides:
 MSc Student in Bioinformatics — University of Sadat City (GEBRI)
 Field Application Specialist — Life Tech Co.
 Research Assistant — MASRI, Ain Shams University
+**Co-Founder — OmicX Labs - Bioinformatics Freelancing Company**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://linkedin.com/in/ibraheemmustafaaly)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black?style=flat&logo=github)](https://github.com/IbraheemMustafaAly)
